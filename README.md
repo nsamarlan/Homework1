@@ -1,4 +1,4 @@
-
+# 
 # Robinhood
 ## Overview and Origin
 * The company was incorporated on April 18, 2013 
